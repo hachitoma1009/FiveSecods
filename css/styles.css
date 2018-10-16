@@ -41,12 +41,12 @@
 
 }
 
-#start{
+.start{
     float: left;
     border-radius: 5px;
 }
 
-#stop{
+.stop{
     float: right;
     border-radius: 5px;
 }
