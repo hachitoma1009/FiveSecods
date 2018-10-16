@@ -8,7 +8,9 @@
 
 .description {
     height:90px;
+    width:300px;
     font-family:"Avenir Next";
+    text-align: center;
 }
 .description p {
     letter-spacing: 2px;
@@ -41,10 +43,12 @@
 
 #start{
     float: left;
+    border-radius: 5px;
 }
 
 #stop{
     float: right;
+    border-radius: 5px;
 }
 
 #start, #stop{
