@@ -1,3 +1,18 @@
+.header {
+    background-color:#26d0c9;
+    color:#fff;
+    height: 90px;
+    padding-bottom: 15px;
+    border-bottom: 50px;
+}
+
+.description {
+    height:90px;
+    font-family:"Avenir Next";
+}
+.description p {
+    letter-spacing: 2px;
+}
 .container{
    font-family: 'Courier New', sans-serif;
    width: 300px;
