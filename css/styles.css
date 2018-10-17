@@ -47,11 +47,13 @@
 #start{
     float: left;
     border-radius: 5px;
+    text-align: center;
 }
 
 #stop{
     float: right;
     border-radius: 5px;
+    text-align: center;
 }
 
 #start, #stop{
