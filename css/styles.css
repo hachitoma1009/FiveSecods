@@ -30,6 +30,8 @@
     background: #ccc;
     height: 60px;
     line-height: 60px;
+    text-align: center;
+    border-radius: 5px;
 }
 
 #result.standby{
