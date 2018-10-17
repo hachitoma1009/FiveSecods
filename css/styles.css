@@ -4,14 +4,16 @@
     height: 90px;
     padding-bottom: 15px;
     border-bottom: 50px;
+    font-size: 20px;
 }
 
 .description {
-    height:90px;
+    height:300px;
     width:300px;
     font-family:"Avenir Next";
     text-align: center;
 }
+
 .description p {
     letter-spacing: 2px;
 }
@@ -19,7 +21,6 @@
    font-family: 'Courier New', sans-serif;
    width: 300px;
    margin: 30px auto 0;
-   text-align: center;
    font-weight: bold; 
 }
 
