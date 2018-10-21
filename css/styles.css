@@ -3,9 +3,10 @@
     color:#fff;
     height: 90px;
     padding-bottom: 15px;
-    border-bottom: 50px;
     font-size: 50px;
     text-align: center;
+    font-family: "cursive";
+    /*上下をそろえたい*/
 }
 
 .description {
@@ -14,11 +15,13 @@
     background-image:url(https://prog-8.com/images/html/advanced/top.png);
     background-size:cover;
     color:white;
+    opacity:0.5;
 }
 
 .description p {
     letter-spacing: 2px;
     text-align: center;
+    line-height: 10px;
 }
 .container{
    font-family: 'Courier New', sans-serif;
@@ -72,4 +75,7 @@
 #start.pushed,#stop.pushed{
     margin-top: 3px;
     box-shadow: 0 3px 0 #ccc;
+}
+.buttons:hover {
+    background-color:#969696;
 }
