@@ -2,11 +2,10 @@
     background-color: #2f5167;
     color:#fff;
     height: 90px;
-    padding-bottom: 15px;
     font-size: 50px;
     text-align: center;
     font-family: "cursive";
-    /*上下をそろえたい*/
+    line-height: 90px;
 }
 
 .description {
@@ -21,7 +20,8 @@
     letter-spacing: 2px;
     text-align: center;
     line-height: 10px;
-    color: rgba(255,255,255,0.5);
+    color: rgba(255,255,255,0.2);
+    height:150px;
 }
 .container{
    font-family: 'Courier New', sans-serif;
